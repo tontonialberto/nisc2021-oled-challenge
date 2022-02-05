@@ -4,3 +4,5 @@ This firmware was written for an STM32F401 microcontroller.
 It uses ChibiOS and has been developed using ChibiStudio.
 
 Enjoy!
+
+![Demo](/assets/demo.gif)
